@@ -159,6 +159,8 @@ while count < 5 do
 end
 ```
 
+> **Reminder**: The `+=` is the same as saying 'take this thing, count, and assign it to whatever it was, plus 1'
+
 In IRB, the result is that `puts` is called five times:
 
 ```text
