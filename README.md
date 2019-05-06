@@ -193,7 +193,7 @@ repeat as many times as we'd like.
 - [If Statements][if]
 - [While Loops][while]
 
-[expressions]: https://en.wikipedia.org/wiki/Expression_(computer_science)
+[expression]: https://en.wikipedia.org/wiki/Expression_(computer_science)
 [statements]: https://en.wikipedia.org/wiki/Statement_(computer_science)
 [if]: https://ruby-doc.org/core-2.2.0/doc/syntax/control_expressions_rdoc.html#label-if+Expression
 [while]: https://ruby-doc.org/core-2.2.0/doc/syntax/control_expressions_rdoc.html#label-while+Loop
